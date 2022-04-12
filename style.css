@@ -316,6 +316,14 @@ p {
 #projects .project-info p {
 	color: white;
 }
+
+#telaCadastro{
+	flex-basis: 50%;
+	height: 300px;
+	overflow: hidden;
+	position: relative;
+}
+
 #projects .project-img {
 	flex-basis: 50%;
 	height: 300px;
