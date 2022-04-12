@@ -341,7 +341,7 @@ p {
 	opacity: 0.2;
 }
 #projects .project-img img {
-	transition: 0.5s ease transform;
+	transition: 0.3s ease transform;
 }
 #projects .project-item:hover .project-img img {
 	transform: scale(1.1);
