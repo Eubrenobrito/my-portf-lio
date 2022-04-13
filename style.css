@@ -48,7 +48,7 @@ p {
 .cta {
 	display: inline-block;
 	padding: 10px 30px;
-	color: white;
+	color: #485563;
 	background-color: transparent;
 	border: 2px solid #faf4f4;
 	font-size: 2rem;
@@ -59,8 +59,8 @@ p {
 	transition-property: background-color, color;
 }
 .cta:hover {
-	color: white;
-	background-color: rgba(82, 81, 81, 0.24);
+	color: #485563;
+	background-color: rgba(82, 81, 81, 0.10);
 }
 .brand h1 {
 	font-size: 3rem;
